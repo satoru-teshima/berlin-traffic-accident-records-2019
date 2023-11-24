@@ -24,7 +24,7 @@ The project was separated into these following folders
 - Visualizations
   Includes visuals made from Python
 
-  ## Blog post
+## Blog post
 
   Visit the blog post here. 
 
